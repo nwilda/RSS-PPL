@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFF">
+
+        <TextView
+            android:id="@+id/tahapan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/tahapan_selanjutnya"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="286dp"
+            android:layout_gravity=""/>
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/info_tes"
+                tools:layout_editor_absoluteX="8dp"
+                tools:layout_editor_absoluteY="286dp"
+                android:layout_gravity="center_vertical|right"/>
+    </LinearLayout>
+
+
+
+</ScrollView>
+
+
+</RelativeLayout>

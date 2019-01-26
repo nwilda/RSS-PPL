@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">status persyaratan</string>
+
+    <string name="tahapan_selanjutnya">
+    <b><big>Tahapan Selanjutnya</big></b>\n
+
+        <ol>
+            <li> 1.  Upload foto terbaru Anda. Ketentuan upload foto: \n
+                a. Tipe file yang diijinkan: JPG, JPEG, PNG \n
+                b. Ukuran File maksimal 500 KB \n
+                c. Bila Anda mengupload Foto lebih dari satu kali, Foto yang digunakan adalah yang terakhir diupload.
+            </li>\n
+            <li> 2. Setelah upload foto, sistem akan menampilkan informasi No Rekening untuk pembayaran biaya pendaftaran. </li>\n
+            <li> 3. Setelah melakukan pembayaran, silakan cetak kartu ujian. Kartu ujian dapat dicetak H-2 sebelum ujian berlangsung.</li>\n
+            <li> 4. Anda diwajibkan membawa kartu ujian dan bukti pembayaran saat tes seleksi </li>\n
+            <li> 5. Hasil test akan diumumkan 2-7 hari setelah test berlangsung. Hasil test dapat dilihat di menu Informasi Kelulusan </li>\n
+
+        </ol>
+    </string>
+
+    \n
+
+    <string name="info_tes">
+
+        <b><big>Informasi Soal Tes</big></b> \n
+        <ol>
+            <li> 1.  Tes Potensi Akademik \n
+                     a. Kuantitatif Matematika \n
+                     b. Verbal Bahasa Indonesia \n
+                     c. BSpasial mencocokan gambar </li>\n
+            <li> 2. Tes Bahasa Inggris </li>\n
+     </ol>
+    </string>
+
+
+</resources>
